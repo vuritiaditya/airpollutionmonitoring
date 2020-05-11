@@ -1,0 +1,2 @@
+# airpollutionmonitoring
+Air pollution is increasing day by day in industrial areas. There is a need to minimize the pollution in order to avoid health problems. In industries the working hours of a person in general is about 8 – 10 hrs. we have found a problem such that if the level of ppm in air exceeds 300 then it causes drossiness to the person. So,I have proposed a solution that will measure the air quality and it will show the message saying whether person in that atmosphere is having good quality of air or not.
